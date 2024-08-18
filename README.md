@@ -56,7 +56,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/olivex13/olivex13/output/snake.svg" alt="Snake animation" />
-
-###
