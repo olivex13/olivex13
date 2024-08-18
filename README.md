@@ -1,8 +1,8 @@
-<h1 align="left">Hello World!! Bem vindo ao meu perfil 🛸</h1>
+<h1 align="left">Hello World!! Bem vindo ao meu perfil  🚀</h1>
 
 ###
 
-<h2 align="left">Sobre mim 🚀</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tecnologias 👾</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Status 🏆</h2>
+<h2 align="left">Status </h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Contato 🔔</h2>
+<h2 align="left">Contato </h2>
 
 ###
 
